@@ -1,0 +1,12 @@
+.servises-list {
+}
+.servises-item {
+  background-color: #fff;
+
+  &:not(:last-child) {
+    margin-bottom: 10px;
+  }
+}
+.servises-text {
+  padding: 0 20px;
+}
